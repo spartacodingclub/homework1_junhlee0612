@@ -1,0 +1,39 @@
+
+    * {
+        font-family: 'Nanum Myeongjo', serif;
+    }
+
+    .img-align {
+        width: 700px;
+        margin: 10px auto 0 auto;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .inputgrp-align {
+        width: 1000px;
+        margin: 10px auto 0 auto;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .button-align {
+        width: 300px;
+        margin: 10px auto 0 auto;
+
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .wrap {
+        width: 300px;
+        margin: 20px auto 0 auto;
+    }
