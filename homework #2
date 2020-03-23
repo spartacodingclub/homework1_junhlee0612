@@ -121,8 +121,7 @@
         <input type="text" class="form-control" id="order-contact" aria-label="Default"
             aria-describedby="inputGroup-sizing-default">
     </div>
-    <button type="button" class="btn btn-primary btn-lg button-size align-center" onclick="order()"
-        onclick="phoneNumValid()">주문하기</button>
+    <button type="button" class="btn btn-primary btn-lg button-size align-center" onclick="order()">주문하기</button>
 </body>
 
 </html>
