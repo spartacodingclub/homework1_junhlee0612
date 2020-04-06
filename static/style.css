@@ -1,0 +1,47 @@
+
+ 
+    * {
+        font-family: 'Nanum Myeongjo', serif;
+    }
+
+    .img-size {
+        width: 700px;
+    }
+
+    .inputgrp {
+        width: 1000px;
+    }
+
+    .button-size {
+        width: 300px;
+    }
+
+    .align-center {
+        margin: 10px auto 0 auto;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+
+    .wrap {
+        width: 300px;
+        margin: 20px auto 0 auto;
+    }
+
+    .table {
+        width:500px;
+        margin:auto;
+    }
+
+    .orders {
+        margin-top: 100px;
+    }
+
+    .meta_info {
+        width: 20%;
+    }
